@@ -1,0 +1,23 @@
+id: IEEB908B0
+initial_creation_type: ebook
+source_metadata:
+  id: BOOK-004
+  title: ལྟུང་བཤགས་ཀྱི་འགྲེལ་པ།
+  author: མཛད་པ་པོ། ཀརྨ་ངེས་དོན་བསྟན་རྒྱས།
+  authors: &id001
+  - མཛད་པ་པོ། ཀརྨ་ངེས་དོན་བསྟན་རྒྱས།
+  sku: BOOK-004
+  cover: BOK-004.jpg
+  volume: {}
+ebook_metadata:
+  title: ལྟུང་བཤགས་ཀྱི་འགྲེལ་པ།
+  authors: *id001
+  sku: BOOK-004
+  cover: BOK-004.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
